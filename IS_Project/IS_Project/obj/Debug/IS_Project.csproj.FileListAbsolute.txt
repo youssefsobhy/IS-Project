@@ -1,1 +1,9 @@
 E:\IS Project\IS_Project\IS_Project\bin\Debug\IS_Project.exe.config
+E:\IS Project\IS_Project\IS_Project\bin\Debug\IS_Project.exe
+E:\IS Project\IS_Project\IS_Project\bin\Debug\IS_Project.pdb
+E:\IS Project\IS_Project\IS_Project\obj\Debug\IS_Project.csprojResolveAssemblyReference.cache
+E:\IS Project\IS_Project\IS_Project\obj\Debug\IS_Project.Form1.resources
+E:\IS Project\IS_Project\IS_Project\obj\Debug\IS_Project.Properties.Resources.resources
+E:\IS Project\IS_Project\IS_Project\obj\Debug\IS_Project.csproj.GenerateResource.Cache
+E:\IS Project\IS_Project\IS_Project\obj\Debug\IS_Project.exe
+E:\IS Project\IS_Project\IS_Project\obj\Debug\IS_Project.pdb
